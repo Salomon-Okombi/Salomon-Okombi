@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Salomon</h1>
 <h3 align="center">A passionate fullstack developer and data analyst from France</h3>
 
-- 🌱 I’m currently learning **Django, Vue.js, Tailwind**
+- 🌱 My stack : **Django, Vue.js, Tailwind**
 
 - 💬 Ask me about **Vue.js and Python**
 
