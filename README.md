@@ -5,7 +5,7 @@
 
 - 💬 Ask me about **Vue.js and Python**
 
-- 📫 How to reach me **salomon.okombi@gmail.com**
+- 📫 How to reach me **www.linkedin.com/in/bienvenu-salomon-okombi**
 
 - 📄 Know about my experiences [👋 Salut ! Je suis un développeur passionné spécialisé en Python, Django, JavaScript et VueJS.](👋 Salut ! Je suis un développeur passionné spécialisé en Python, Django, JavaScript et VueJS.)
 
